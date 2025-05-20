@@ -1,10 +1,10 @@
 # Multi-class Perceptron assignment AI
-Epoch 1: New best accuracy: 0.7079
-Epoch 2: New best accuracy: 0.9775
-Epoch 49: New best accuracy: 0.9888
-Epoch 410: New best accuracy: 1.0000
-Converged at epoch 411
-Training completed. Best accuracy at epoch 410: 1.0000
+Epoch 1: New best accuracy: 0.7079 \
+Epoch 2: New best accuracy: 0.9775 \
+Epoch 49: New best accuracy: 0.9888 \
+Epoch 410: New best accuracy: 1.0000 \
+Converged at epoch 411 \
+Training completed. Best accuracy at epoch 410: 1.0000 \
 
 Final Weights (Best):
 Setosa: [ 1.12  -0.151 -0.431]
